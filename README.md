@@ -66,13 +66,13 @@ html
 
 ### Installation
 
-```bash
+````bash
 go get github.com/fortuneehis/gonut
 ````
 
 ### Basic Usage
 
-```go
+````go
 package main
 
 import (
@@ -118,7 +118,7 @@ html
 	}
 	fmt.Println(output)
 }
-```
+````
 
 ---
 
